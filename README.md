@@ -1,6 +1,8 @@
 # PortfolioTecnico
 Este repositório conterá os trabalhos feitos por mim (Vishnu Priya) neste ano de 2022 no curso técnico de Desenvolvimento de Sistemas. 
-! ![image](https://user-images.githubusercontent.com/102593327/160611622-11e00903-f907-4594-a10b-305eefdab5f0.png)
+
+<img src= "https://user-images.githubusercontent.com/102593327/176678287-118c49c2-126c-4dea-88dc-7dc2275b22ac.jpeg" width="300" height="200">
+
 
 
 
@@ -11,10 +13,15 @@ Estudo atualmente no Senai, cursando o segundo ano do ensino médio técnico de 
 Meus interesses e hobbies pessoais se resumem em tudo que tenha a ver com arte, como por exemplo pintar, escrever, fotografar, desenhar, atuar, ler, etc; cozinhar, ir para a praia ou cachoeira, sair pra fazer compras ou ver meus amigos e assistir séries e filmes e ouvir música.
 Esses são alguns desenhos que eu fiz:
 
-! ![565 Sem Título_20220313214656](https://user-images.githubusercontent.com/102593327/160610696-c39431b3-2041-4180-a932-fa72772667d0.png) 
-! ![554 Sem Título_20220306145719](https://user-images.githubusercontent.com/102593327/160610816-81906029-e992-4317-a6ca-d88e8ee7d820.png)
-! ![InShot_20220319_202405503](https://user-images.githubusercontent.com/102593327/160610877-1f30c2ed-6c49-42f9-9ae8-a231af4a026a.jpg)
-! ![527 Sem Título_20220217072228](https://user-images.githubusercontent.com/102593327/160610920-c2285682-54e8-40d7-9edf-3c9731d1020e.png)
+
+<img src="https://user-images.githubusercontent.com/102593327/160610696-c39431b3-2041-4180-a932-fa72772667d0.png" width="200" height="200">
+
+<img src= "https://user-images.githubusercontent.com/102593327/160610816-81906029-e992-4317-a6ca-d88e8ee7d820.png" width="200" height="300">
+
+<img src= "https://user-images.githubusercontent.com/102593327/160610877-1f30c2ed-6c49-42f9-9ae8-a231af4a026a.jpg" width="200" height="200">
+
+<img src= "https://user-images.githubusercontent.com/102593327/160610920-c2285682-54e8-40d7-9edf-3c9731d1020e.png" width="200" height="200">
+
 
 
 Meus filmes preferidos são Ponte para Terabítia e Sussurros do Coração. Minhas séries preferidas são Brooklyn nine nine, Anne with an e, Sex education, Pose, entre outras. Adoro animes também, como Jujutsu Kaisen, Kimetsu no Yaiba e Shingeki no Kyojin, e possuo um amor eterno por todos os filmes do estúdio Ghibli.
@@ -36,7 +43,7 @@ Se eu tivesse que reencarnar de novo nesse mundo, gostaria de reencarnar como um
 Um dia, quando eu ter muito dinheiro vou sair voando pelo mundo. 
 
 Bom, isso é o que tenho sobre mim, por enquanto, já que enquanto escrevo isso é uma terça feira às 8 da manhã e estou morrendo de sono. 
-! ![image](https://user-images.githubusercontent.com/102593327/160611995-20bb61c7-af4f-4278-b7b4-4aa0ba2371f9.png)
+<img src= "https://user-images.githubusercontent.com/102593327/160611995-20bb61c7-af4f-4278-b7b4-4aa0ba2371f9.png" width="200" height="200">
 
 
 
