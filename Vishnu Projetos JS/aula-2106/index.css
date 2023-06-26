@@ -1,0 +1,10 @@
+#tituloprincipal{
+    text-align: center;
+    color: darkolivegreen;
+    font-size: 50px;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

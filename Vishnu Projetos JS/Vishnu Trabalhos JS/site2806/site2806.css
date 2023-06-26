@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.center{
+width:150px;
+height: 150px;
+border-radius: 50%;
+}
+
+#header{
+    padding:20px 0;
+    text-align: right;
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+    color:orangered;
+    height:20px;
+    width:20%;
+}
+
+.logo{
+    width: 50%;
+
+}
+
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: right;
+    color:brown;
+    margin: right;
+    background-color: beige; 
+}
+
+header{
+    background-color: beige; 
+    font-size: 20px;
+    margin-top: 10vh;
+    text-align: center;
+    height:40vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(250, 112, 0);
+    text-align: center;
+}
+
+
+img{
+width:150px;
+height: 150px;
+border-radius: 50%;
+}
+
+
+.menu{
+    text-align:center;
+    height: 270px;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+    margin:50px;
+    box-sizing: border-box;
+    background-color: rgb(250, 216, 153);
+    width: 700px;;
+}
+
+#footer{
+    width:1700px;
+    height: 100px;
+    background-color:rgb(248, 151, 5);
+    text-align: center;
+}
+
+.container{
+    height:100vh;
+    width:100%;
+    background-image:url(../img/backgroundnew.png);
+
+}
+
+button{
+    color:brown;
+    background-color: rgb(253, 253, 205);
+    border: 1px solid  rgb(253, 253, 205);
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+hover{
+    color:orangered;
+}
+
+hr{
+    border-color:rgb(245, 173, 41);
+    border-style:bold;
+
+}
+
+

@@ -1,0 +1,21 @@
+
+h1{
+    font-size: 45px;
+    text-align: center;
+}
+
+#textoPrincipal{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+body{
+background-color: pink;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fundoRosa{
+background-color: beige;
+}
+.fundonegrito{
+background-color: beige;
+text-decoration: underline;
+}

@@ -1,0 +1,19 @@
+<tag>
+<!-- Comentário-->
+<tag2>
+    <blz>texto</blz>
+    <blz>texto</blz>
+    <blz>texto</blz>
+</tag2>
+</tag>
+
+<!--Tag sem corpo-->
+<meta> <br> <input>
+<!--Mas podem estar assim-->
+<meta/> <br /> <input/>
+
+<tag param1="valor1" param2="valor2"/>
+
+<tag param1="valor2" param2="valor2">
+    <!--Corpo da tag-->
+</tag>
