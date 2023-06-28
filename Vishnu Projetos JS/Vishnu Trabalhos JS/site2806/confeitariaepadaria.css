@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background:#F6E4DB;
+}
+
+#cabecalho{
+    image-orientation: center;
+
+}
+
+.sonho img{
+    width:443px;
+    height:354px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+#rodape{
+    image-orientation: center;
+}
+
+header{
+text-align: center;
+}
