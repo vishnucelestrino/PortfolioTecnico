@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+#mingau{
+    width:596px;
+    height: 394px;
+    border-radius: 10px;
+    text-align:center;
+    }
+    
+
+.header{
+    padding:20px 0;
+    text-align: center;
+    color:orangered;
+    height:20px;
+    width:20%;
+}
+
+.footer{
+    text-align: center;
+    box-sizing:border-box;
+}
+
+body{
+    background-color:#F6E4DB;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+
